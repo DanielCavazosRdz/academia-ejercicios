@@ -28,7 +28,7 @@ function _sumFibs( maxFibValue ) {
   } while(pass);
 
   return sum;
-}
+} 
 
 // bonus round
 function _highestFibonacciNumber (maxFibValue){

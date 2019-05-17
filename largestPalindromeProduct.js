@@ -22,7 +22,7 @@ module.exports = function(digits){
             palindromeNumber = Number;
           }
       }
-    }
+    } 
   }
 
   if(digits === 3){
